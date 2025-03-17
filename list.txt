@@ -1,4 +1,5 @@
 aepfel
+banenen
 paprika
 tomaten
 birnen
