@@ -1,4 +1,6 @@
 aepfel
+paprika
+tomaten
 birnen
 bier
 leberkaese
